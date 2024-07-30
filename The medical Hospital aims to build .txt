@@ -1,0 +1,29 @@
+The medical Hospital aims to build a Patient Information Gateway Microservice to facilitate the patient to save their information in secure and seamless transactions for their e-commerce platform. The microservice should handle various payment methods, currencies,and integrate with multiple banking systems and third-party payment providers.
+
+
+The Government aims to provide Health Cards with cashless treatment to the entire state.
+
+ in a single click and planning to save their information 
+in secure for future reference. Based on the citizens information government is planning to provide several welfare schemes
+
+
+Government of XYZ is planning to provide cashless treatment to the entire citizens in a single click and planning to save their information in a single DB.
+
+
+
+The Medical Hospital aims to build a Patient Information Microservice and Payment Gateway Microservice to facilitate secure and seamless transactions for their Patients. 
+The microservice should handle various payment methods, currencies,and integrate with multiple banking systems and third-party payment providers and need to save the information in respective DataBase.
+----------------------------------------------------------------------------------------------
+
+Educational Board is planning to collect Recognition fees from the students who are studying under the control of the board.
+
+Previously they were collecting through manual challanas, Now they want to migrate to Online payment mode.
+
+Hence the board is planning to build a Student Information fetch Microservice  and Payment Gateway Microservice.
+
+
+Student Information fetch Microservice to facilitate the Institutions to fetch the Students Information.
+
+Payment Gateway Microservice to facilitate secure and seamless transactions for the institutions controlling under the board. 
+
+The microservice should handle various payment methods, currencies,and integrate with multiple banking systems and third-party payment providers and need to save the information in respective DataBase.
